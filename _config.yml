@@ -188,8 +188,9 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+permalink: /blog/:title/
+paginate: 10
+paginate_path: "/page:num/"
 
 kramdown:
   input: GFM
@@ -198,7 +199,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "blog\"
+      path: ""
       type: "posts"
     values:
       layout: "post"
