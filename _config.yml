@@ -163,7 +163,7 @@ footer-link-col: "#404040"
 # To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and
 # accept the invitation by going to `https://staticman3.herokuapp.com/v3/connect/github/<username>/<repo-name>`.
 # Then uncomment the following section and fill in "repository" and "branch".
-# If you want to use reCaptcha for staticman (optional for spam protection), then fill
+# If you want to use reCaptcha for staticman (optional for spam protection), then fill 
 # in the "siteKey" and "secret" parameters below and also in `staticman.yml`.
 # See more details at https://staticman.net/
 #staticman:
