@@ -53,7 +53,7 @@ Tampilan awal terminal Laragon akan terlihat seperti ini.
 ![FOTO](/assets/img/mysql4.jpg)
 
 Untuk melakukan login ke dalam MySQL kita menggunakan *script*:
-```mysql
+```
 mysql -u root -h localhost
 ```
 Setelah itu akan muncul teks seperti ini:
