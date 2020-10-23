@@ -15,10 +15,10 @@ author: Jericho Siahaya
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+
 
 # --- Logo --- #
 
@@ -29,7 +29,7 @@ avatar: "/assets/img/avatar-icon.png"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# If you want to have an image logo in the top-left corner instead of having the of the website,
 # then specify the following parameter
 #title-img: /path/to/imagei
  
