@@ -100,7 +100,7 @@ Next thing, I want to know the most used words from the five songs. To do this, 
     docs <- tm_map(docs, removeWords, myStopwords)  
     dtm <- TermDocumentMatrix(docs)  
     m <- as.matrix(dtm)  
-    v <- sort(rowSums(m),decreasing=TRUE)  
+    v <- sort(rowSums(m),decreasing=TRUE)   
     d <- data.frame(word = names(v),freq=v)  
     lyrics_ff_wc <- d[1:100,]
 
