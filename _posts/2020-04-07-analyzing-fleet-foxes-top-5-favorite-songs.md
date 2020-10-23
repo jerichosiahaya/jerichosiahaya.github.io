@@ -27,7 +27,7 @@ The first thing I need to do is preparing the tools, which is all the packages t
     library(ggraph)  
     library(readr)  
     library(circlize)   
-    library(reshape2)
+    library(reshape2) 
     
 If you see, I'm using a *genius package* to import the lyrics of the song from Genius website. It's a pretty good package so I don't have to copy and paste the lyrics into a file anymore.  
 
