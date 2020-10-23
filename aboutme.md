@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jericho Siahaya, a fifth term Information System undergraduate student at Multimedia Nusantara University with an interest in Big Data, UX Design and innovation through technology. 💻
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+You can catch up with me on [Quora](https://id.quora.com/profile/Jericho-Siahaya), [LinkedIn](https://www.linkedin.com/in/jerichosiahaya/) and [Medium](https://medium.com/@jerichosiahaya). Sorry, I don't available on Facebook, Twitter or Instagram. 
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+You can download my latest resume here: [Jericho's Resume](https://github.com/jerichosiahaya/jerichosiahaya.github.io/blob/master/docs/Jericho's%20Resume.pdf)
