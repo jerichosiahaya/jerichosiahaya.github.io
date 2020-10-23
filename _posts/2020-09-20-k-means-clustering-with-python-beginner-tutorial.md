@@ -30,7 +30,7 @@ Yeah, we’re going to use the  [iris dataset](https://www.kaggle.com/uciml/iris
 If you take a look at the data on column ‘Species’, there is some kind of extra string (Iris-) before the species name. Let’s delete the extra string, we can do it like this:
 
 ```python
-iris['Species'] = iris.Species.str.replace('Iris-' , '')
+iris['Species'] = iris.Species.str.replace('Iris-' , '') 
 ```
 
 Now we get more clean species name string.
