@@ -1,7 +1,7 @@
 ---
 layout: post
 title: K-Means Clustering with Python — Beginner Tutorial
-tags: [Python, Clustering]
+tags: [python, clustering]
 ---
 Sorry, no opening. I assume you already know what’s clustering and what the purpose of this thing, so let’s jump straight to the tutorial.
 
