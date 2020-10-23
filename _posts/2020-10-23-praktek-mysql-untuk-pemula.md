@@ -48,7 +48,7 @@ Setelah itu, klik *Terminal*. Laragon sudah menyediakan cmd khusus jadi kita tid
 
 ![FOTO](/assets/img/mysql3.jpg)
 
-Tampilan awal terminal Laragon akan terlihat seperti ini.
+Tampilan awal terminal Laragon akan terlihat seperti ini. 
 
 ![FOTO](/assets/img/mysql4.jpg)
 
