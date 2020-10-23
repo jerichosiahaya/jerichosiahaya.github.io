@@ -120,3 +120,4 @@ plt.scatter(kmeans_model.cluster_centers_[:, 0], kmeans_model.cluster_centers_[:
     4. Grouping objects based on minimum distance
     
 The notebook is available here: [K-Mean's Notebook](https://notebooks.gesis.org/binder/v2/gh/jerichosiahaya/my-notebooks/64131fa240144e991ce89b335649b1834b46ceb9?filepath=k-means%20clustering%20using%20iris%20dataset%2FClustering%20using%20Iris%20dataset.ipynb)
+ 
