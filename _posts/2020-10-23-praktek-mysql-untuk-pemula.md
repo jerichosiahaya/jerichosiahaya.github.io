@@ -28,7 +28,7 @@ Next, next, next, kemudian selanjutnya Laragon siap digunakan.
 1. Buatlah sebuah database dengan format nama database DB_NIM_NAMA 
 2. Buatlah sebuah tabel pada database Anda dengan tabel bernama TABEL_NILAI 
 3. Pada tabel TABEL_NILAI buatlah fields sebagai berikut :  
-	- NIM ‐> Varchar(11) 
+	- NIM ‐> Varchar(11)  
 	- NAMA ‐> Varchar(50) 
 	- TUGAS ‐> integer 
 	- UTS ‐> integer 
