@@ -3,7 +3,8 @@ layout: post
 title: Analyzing Fleet Foxes’s Top 5 Favorite Songs Using R
 subtitle: Text Analytics of Fleet Foxes’s Songs Using R Programming Language
 cover-img: https://media.pitchfork.com/photos/5ba3aa2a4899de2cf8705ae0/2:1/w_2560%2Cc_limit/Fleet-Foxes.jpg
-share-img: https://media.pitchfork.com/photos/5ba3aa2a4899de2cf8705ae0/2:1/w_2560%2Cc_limit/Fleet-Foxes.jpg
+thumbnail-img: https://bookingagentinfo.com/wp-content/uploads/2017/06/Fleet-Foxes-Contact-Information.jpg
+share-img: https://bookingagentinfo.com/wp-content/uploads/2017/06/Fleet-Foxes-Contact-Information.jpg
 tags: [R, textanalytics]
 ---
 
