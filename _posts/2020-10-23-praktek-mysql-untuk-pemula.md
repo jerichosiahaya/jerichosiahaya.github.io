@@ -11,7 +11,7 @@ Pada praktek kali ini kita akan menggunakan Laragon sebagai *local development e
 
 ### Instalasi Laragon
 
-Aplikasi Laragon dapat diunduh di sini: https://laragon.org/download/index.html. Instalasi Laragon cukup mudah, setelah selesai diunduh teman-teman bisa langsung menjalankan aplikasi Laragon. Setelah itu akan muncul setup seperti demikian:
+Aplikasi Laragon dapat diunduh di sini: [https://laragon.org/download/index.html](https://laragon.org/download/index.html). Instalasi Laragon cukup mudah, setelah selesai diunduh teman-teman bisa langsung menjalankan aplikasi Laragon. Setelah itu akan muncul setup seperti demikian:
 
 ![0_1513170555874_setup 01.png](https://i.imgur.com/4OyDDhK.png)
 
@@ -38,19 +38,19 @@ Next, next, next, kemudian selanjutnya Laragon siap digunakan.
 
 Pertama-tama, buka Aplikasi Laragon, lalu klik *Start All*.
 
-![FOTO](assets/img/mysql1.jpg)
+![FOTO](/assets/img/mysql1.jpg)
 
 Pastikan status Apache dan MySQL berjalan dengan lancar.
 
-![FOTO](assets/img/mysql2.jpg)
+![FOTO](/assets/img/mysql2.jpg)
 
 Setelah itu, klik *Terminal*. Laragon sudah menyediakan cmd khusus jadi kita tidak perlu membuka cmd yang ada di komputer kita.
 
-![FOTO](assets/img/mysql3.jpg)
+![FOTO](/assets/img/mysql3.jpg)
 
 Tampilan awal terminal Laragon akan terlihat seperti ini.
 
-![FOTO](assets/img/mysql4.jpg)
+![FOTO](/assets/img/mysql4.jpg)
 
 Untuk melakukan login ke dalam MySQL kita menggunakan *script*:
 ```mysql
@@ -58,7 +58,7 @@ mysql -u root -h localhost
 ```
 Setelah itu akan muncul teks seperti ini:
 
-![FOTO](assets/img/mysql5.jpg)
+![FOTO](/assets/img/mysql5.jpg)
 
 #### Membuat Database
 
@@ -89,7 +89,7 @@ insert into tabel_nilai (nama, nim, uas, uts, tugas, nilai_akhir) values ('Dicky
 ```
 Hasil dari proses di atas adalah sebagai berikut:
 
-![FOTO](assets/img/mysql6.jpg)
+![FOTO](/assets/img/mysql6.jpg)
 
 ### Perintah MySQL Lainnya
 
@@ -118,4 +118,4 @@ update [nama_tabel] set [nama_field_B] = nilai yang diinginkan where [nama_field
 ```
 delete from [nama_tabel] where [nama_field] = masukkan parameter di sini;
 ```
-Untuk lebih lengkapnya dapat dicek pada dokumentasi di situs resmi MySQL di sini: https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html
+Untuk lebih lengkapnya dapat dicek pada dokumentasi di situs resmi MySQL di sini: [https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
