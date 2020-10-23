@@ -12,3 +12,4 @@ title: About me
 📝 My latest resume is available here: [Jericho's Resume](https://github.com/jerichosiahaya/jerichosiahaya.github.io/blob/master/docs/Jericho's%20Resume.pdf)
  
 ![jim carrey gif](https://media4.giphy.com/media/gdf0DQz1Z9Ru3uy1El/giphy.gif)
+ 
