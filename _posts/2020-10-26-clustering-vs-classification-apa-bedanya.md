@@ -133,4 +133,4 @@ Apa yang sudah kita pelajari dari penjelasan di atas?
 2. *Classification* merupakan metode supervised learning di mana data inputannnya memiliki label.
 3. *Clustering* bertujuan untuk mengelompokkan data yang memiliki similaritas/persamaan berdasarkan atribut-atributnya (faktor-faktor).
 4. *Classification* bukan untuk mengklasifikasi data inputan yang sudah ada, melainkan membuat model dari data inputan yang ada untuk kemudian dipakai untuk memprediksi data yang belum ada labelnya.
-5. *Clustering* membuat kelompok-kelompok label, *classification* membuat prediksi terhadap label.
+5. *Clustering* membuat kelompok-kelompok label, *classification* membuat prediksi terhadap label. 
