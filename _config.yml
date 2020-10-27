@@ -140,7 +140,7 @@ gtag: "<!-- Global site tag (gtag.js) - Google Analytics -->
 google_analytics: "G-FGLD4XWY3K"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-T7WJ5PZ"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
