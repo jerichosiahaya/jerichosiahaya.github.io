@@ -139,7 +139,7 @@ gtag: "<!-- Global site tag (gtag.js) - Google Analytics -->
 # Fill in your Google Analytics ID to track your website using Google Analytics
 google_analytics: "G-FGLD4XWY3K"
 
-# Google Tag Manager ID
+# Google Tag Manager ID 
 gtm: "GTM-T7WJ5PZ"
 
 # Matomo (aka Piwik) Web statistics
