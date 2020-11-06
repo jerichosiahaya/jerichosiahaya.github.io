@@ -41,7 +41,7 @@ Selanjutnya, untuk membuat judul website kita menggunakan sintaks `<title> judul
 
 Untuk melihat tampilan website, simpan file tersebut dengan format `.html` lalu coba buka dengan browsermu. Hasilnya kira-kira akan seperti ini:
 
-![gini tampilan awal](assets/img/tampilanawal.gif)
+![gini tampilan awal](/assets/img/tampilanawal.gif)
 
 Sekarang kita akan membuat sebuah tabel. Pada dasarnya tabel terdiri atas 3 komponen, yaitu kolom, baris dan data. Pertama kita akan membuat kolom atau bisa disebut sebagai *table head*, kita bisa menggunakan sintaks `<thead>`. Penggunaanya seperti ini:
 ```html
@@ -127,7 +127,7 @@ Setelah berhasil membuat berita serta tabel maka bentuk keseluruhan script kita 
 ```
 Tampilan website akan seperti ini:
 
-![tampilan website jadi seperti ini](assets/img/tampilanwebsiteakanjadisepertiini.jpg)
+![tampilan website jadi seperti ini](/assets/img/tampilanwebsiteakanjadisepertiini.jpg)
 
 
 Tahap selanjutnya kita akan memberi visualisasi atau *style* pada website yang sebelumnya sudah kita buat menggunakan CSS. Perlu diketahui, pemberian *style* menggunakan CSS bisa memakai teknik [external, inline dan internal CSS](https://www.hostinger.co.id/tutorial/perbedaan-inline-css-external-css-dan-internal-css/). 
@@ -274,7 +274,7 @@ Sampai di sini website kita sudah diberi visualisasi dan sudah jadi. Keseluruhan
 </body>
 </html>
 ```
-![foto website](assets/img/hasilakhir.jpg)
+![foto website](/assets/img/hasilakhir.jpg)
 
 ### Need To Know
 
