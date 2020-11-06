@@ -74,7 +74,7 @@ Ataupun seperti ini:
 	</tr>
 </table>
 ```
-Namun di sini kita akan mengikuti cara yang sudah tertera dalam modul ISIT. Selanjutnya kita akan membuat row di bawah judul kolom yang sudah kita buat sebelumnya dan memasukkan data ke dalamnya. Kita akan menggunakan sintaks `<tr>` untuk membuat row dan `<td>` untuk memasukkan data, seperti ini (script ini masih jadi satu dengan sintaks `<table>`:
+Namun di sini kita akan mengikuti cara yang sudah tertera dalam modul ISIT. Selanjutnya kita akan membuat row di bawah judul kolom yang sudah kita buat sebelumnya dan memasukkan data ke dalamnya. Kita akan menggunakan sintaks `<tr>` untuk membuat row dan `<td>` untuk memasukkan data, seperti ini (script ini masih jadi satu dengan sintaks `<table>`: 
 ```html
 <table>
 	<thead>
