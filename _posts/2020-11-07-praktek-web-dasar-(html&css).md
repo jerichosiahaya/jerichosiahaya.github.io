@@ -4,7 +4,7 @@ title: Praktek Web Dasar (HTML & CSS)
 share-img: https://cdn.mos.cms.futurecdn.net/hFm4iWXhbw4c4rdcMH8tUD.jpg
 tags: [html, css]
 ---
-**HTML** adalah singkatan dari HyperText Markup Languange yang merupakan bahasa pemrograman web atau *markup* internet yang berasal dari kombinasi antara teks dan informasi berupa simbol atau kode yang akan dimasukan ke dalam suatu file guna membuat suatu halaman situs web. 
+**HTML** adalah singkatan dari HyperText Markup Languange yang merupakan bahasa pemrograman web atau *markup* internet yang berasal dari kombinasi antara teks dan informasi berupa simbol atau kode yang akan dimasukan ke dalam suatu file guna membuat suatu halaman situs web.  
 
 Sedangkan, **CSS** adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam [bahasa *markup*](https://techterms.com/definition/markup_language), seperti HTML, XML, KML, MathML. CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.
 
