@@ -3,7 +3,7 @@ layout: post
 title: Cara Membuat Virtual Environtment Python
 tags: [python]
 ---
-Akhir-akhir ini saya lagi sering menggunakan Python untuk mengerjakan proyek machine learning. Akhir-akhir ini juga, saya baru *ngeh* dengan pentingnya menggunakan virtual environtment saat mengerjakan sebuah proyek di Python.
+Akhir-akhir ini saya lagi sering menggunakan Python untuk mengerjakan proyek machine learning. Akhir-akhir ini juga, saya baru *ngeh* dengan pentingnya menggunakan virtual environtment saat mengerjakan sebuah proyek di Python. 
 
 ![Drake's Meme](https://i.imgflip.com/4miuom.jpg)
 
