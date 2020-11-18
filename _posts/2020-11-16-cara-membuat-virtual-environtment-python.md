@@ -29,7 +29,7 @@ Di sini saya menggunakan OS Windows dan Anaconda Distribution untuk menginstall 
 
 5. Untuk melihat keseluruhan packages yang terinstall di dalam virtual environtment tersebut, ketik `conda list`.
 
-![Step 4](https://i.ibb.co/MsxKL43/1605494690118.jpg)
+![Step 4](https://i.ibb.co/MsxKL43/1605494690118.jpg) 
 
 > Packages yang terinstall hanya default packages dari Python.
 
