@@ -88,6 +88,6 @@ Salah satu contoh *function* untuk menghitung *body mass index* menggunakan *con
          print("Obesity class II")
        } else {
          print(hasilBMI)
-         print("Obesity class III")
+         print("Obesity class III") 
        }
     }
