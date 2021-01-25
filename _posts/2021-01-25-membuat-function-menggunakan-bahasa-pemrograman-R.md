@@ -34,7 +34,9 @@ Di dalam formula itu ada dua variable, **a** dan **b**. Variable ini akan diisi 
 
     functionSaya <- function(a, b) {
 	    }
+
 Sampai sini kamu sudah berhasil membuat sebuah *function*, tapi tidak ada proses di dalam *function* tersebut karena di dalam tanda kurung kurawal tidak diisi dengan apa-apa. Kita akan memasukkan formula awal kita ke dalam situ.
+
 
     functionSaya <- function(a, b) {
 			a + (b^2) / 72
