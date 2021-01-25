@@ -30,7 +30,7 @@ Misalkan kita punya sebuah formula seperti berikut:
 
 Formula itu merupakan formula sederhana, namun di sini kita tidak akan menggunakan formula tersebut hanya sekali melainkan berkali-kali. Tentu saja akan sangat melelahkan kalau kita perlu terus menerus menuliskan formula tersebut, kan? Maka dari itu kita akan memasukkan formula itu ke dalam *function* sehingga nantinya kita tidak perlu menulis formula tersebut berulang-ulang melainkan hanya perlu memanggil *function*-nya saja. 
 
-Di dalam formula itu ada dua variable, **a** dan **b**. Variable ini akan diisi dengan angka yang tidak tentu, bisa 10, 9, 5, 100, dll. Maka dari itu kita akan membuat variable tersebut sebagai parameter di dalam *function* kita. *Function* dibuat menggunakan sintaks `function` seperti berikut:
+Di dalam formula itu ada dua variable, **a** dan **b**. Variable ini akan diisi dengan angka yang tidak tentu, bisa 10, 9, 5, 100, dll. Maka dari itu kita akan membuat variable tersebut sebagai parameter di dalam *function* kita. *Function* dibuat menggunakan sintaks `function` seperti berikut: 
 
     functionSaya <- function(a, b) {
 	    }
