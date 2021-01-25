@@ -39,6 +39,7 @@ Sampai sini kamu sudah berhasil membuat sebuah *function*, tapi tidak ada proses
     functionSaya <- function(a, b) {
 			a + (b^2) / 72
         }
+
 Sekarang function kamu sudah jadi.
 
 Tapi, tunggu. Ini belum selesai. Apa yang kurang? 🤔
@@ -61,6 +62,7 @@ Cara memanggil *function*:
     functionSaya(2,3)
 
  
+
 >  ***functionSaya** itu object, sedangkan  **(2,3)** itu parameter*
 
 ---
