@@ -4,7 +4,7 @@ title: Membuat function menggunakan bahasa pemrograman R
 tags: [R, programming]
 ---
 > R merupakan bahasa pemrograman untuk analisis statistik yang paling
-> banyak digunakan, karena dengan menggunakan R memungkinkan kamu untuk
+> banyak digunakan, karena dengan menggunakan R memungkinkan kamu untuk 
 > melakukan  _import_  data dari berbagai sumber  _database_  dan format
 > yang berbeda. R juga memiliki 7000+ packages yang gratis untuk
 > digunakan. Packages ini memungkinkan kamu untuk melakukan:
