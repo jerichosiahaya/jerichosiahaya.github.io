@@ -5,7 +5,7 @@ title: About me
 
 🧑 My name is Jericho Siahaya, a sixth term Information System undergraduate student at Multimedia Nusantara University with an interest in Big Data, UX Design and innovation through technology. 
 
-💻 HTML, Javascript, CSS, PHP, Python, R, Java, C#, (little bit) C and C++, Prototyping & Wireframing with Adobe XD.
+💻 HTML, Javascript, CSS, PHP, Python, R, Java, C#, (little bit) C and C++, Prototyping & Wireframing with Adobe XD. 
 
 🤙 You can catch up with me on [Quora](https://id.quora.com/profile/Jericho-Siahaya), [LinkedIn](https://www.linkedin.com/in/jerichosiahaya/) and [Medium](https://medium.com/@jerichosiahaya). Sorry, I don't available on Facebook, Twitter or Instagram. 
 
