@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-🧑 My name is Jericho Siahaya, a fifth term Information System undergraduate student at Multimedia Nusantara University with an interest in Big Data, UX Design and innovation through technology. 
+🧑 My name is Jericho Siahaya, a sixth term Information System undergraduate student at Multimedia Nusantara University with an interest in Big Data, UX Design and innovation through technology. 
 
 💻 HTML, Javascript, CSS, PHP, Python, R, Java, C#, (little bit) C and C++, Prototyping & Wireframing with Adobe XD.
 
