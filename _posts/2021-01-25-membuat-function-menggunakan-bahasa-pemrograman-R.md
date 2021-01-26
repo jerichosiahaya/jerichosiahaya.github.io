@@ -50,7 +50,7 @@ Sekarang function kamu sudah jadi.
 
 Tapi, tunggu. Ini belum selesai. Apa yang kurang? 🤔
 
-Setiap *function* itu punya value hasil yang akan dikembalikan (return) ataupun dicetak (print). Dalam hal ini value hasil adalah hasil dari operasi formula ini: `a + (b^2) / 72`. Misalnya saja kita masukkan a = 1, dan b = 1 maka hasil operasi tersebut menghasilkan 1.013889. Value hasil inilah yang harus kita munculkan dari dalam *function* tersebut. Caranya menggunakan return ataupun print, seperti berikut:
+Setiap *function* itu punya value hasil yang akan dikembalikan (return) ataupun dicetak (print). Dalam hal ini value hasil adalah hasil dari operasi formula ini: `a + (b^2) / 72`. Misalnya saja kita masukkan a = 1, dan b = 1 maka hasil operasi tersebut menghasilkan 1.013889. Value hasil inilah yang harus kita munculkan dari dalam *function* tersebut. Caranya menggunakan return ataupun print, seperti berikut: 
 
     functionSaya <- function(a, b) {
       return(a + (b^2) / 72)
