@@ -70,32 +70,3 @@ Cara memanggil *function*:
  
 
 >  ***functionSaya** itu object, sedangkan  **(2,3)** itu parameter*
-
----
-Salah satu contoh *function* untuk menghitung *body mass index* menggunakan *condition*:
-
- 
-
-      bmi <- function(berat,tinggi) {
-      tinggiBaru <- tinggi/100
-      hasilBMI <- berat/(tinggiBaru^2)
-      if (hasilBMI < 18.5) {
-        return(hasilBMI)
-        return("Underweight")
-       } else if (hasilBMI >= 18.5 && hasilBMI <= 24.9) {
-        print(hasilBMI)
-        print("Normal Weight")
-       } else if (hasilBMI >= 25 && hasilBMI <= 29.9) {
-        print(hasilBMI)
-        print("Overweight")
-       } else if (hasilBMI >= 30 && hasilBMI <= 34.9) {
-         print(hasilBMI)
-         print("Obesity class I")
-       } else if (hasilBMI >= 35 && hasilBMI <= 39.9) {
-         print(hasilBMI)
-         print("Obesity class II")
-       } else {
-         print(hasilBMI)
-         print("Obesity class III") 
-       }
-    }
