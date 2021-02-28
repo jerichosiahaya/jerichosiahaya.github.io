@@ -23,7 +23,7 @@ I'm a really big fan of Fleet Foxes. If you check my 2020 Spotify Wrapped, you c
 I've written an article about [analyzing Fleet Foxes's top five favorite songs](https://jerichosiahaya.github.io/blog/analyzing-fleet-foxes-top-5-favorite-songs/) before. In this article I'm going to do the same thing but I'm not going to analyze their top five favorite songs, instead I want to analyze their new album 'Shore'.
 
 ![Image for post](https://miro.medium.com/max/960/0*6KOS9xQy1On705s6)
-
+ 
 *Shore Album Tracks*
 
 I used the R programming language for the previous analysis, but for this article I will use Python. The objective of this analysis is to explore the information contained in textual documents (lyrics) within each song from the album. The album contains 15 songs, with the longest track is about 5 minutes long and the shortest track is about 2 minutes long.
