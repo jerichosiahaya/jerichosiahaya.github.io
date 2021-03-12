@@ -4,7 +4,7 @@ title: Analyzing Fleet Foxes New Album ‘Shore’ Using Python
 subtitle: (Another) Text Analytics of Fleet Foxes’s Songs Using Python Programming Language
 cover-img: https://s.abcnews.com/images/Entertainment/WireAP_4de8de115bc449e4bb237123bf8169ee_12x5_992.jpg
 thumbnail-img: https://upload.wikimedia.org/wikipedia/en/e/e3/Shore_%28Fleet_Foxes%29.png
-share-img: https://upload.wikimedia.org/wikipedia/en/e/e3/Shore_%28Fleet_Foxes%29.png
+share-img: https://upload.wikimedia.org/wikipedia/en/e/e3/Shore_%28Fleet_Foxes%29.png 
 tags: [python, textanalytics]
 ---
 
